@@ -5,11 +5,11 @@ description: |
   Guides, case studies and resources for government & civil society
   on the "what, why & how" of open data.
 baseurl: ""
-url: "http://opendatahandbook.org" # the base hostname & protocol for your site
+url: "https://geosaber.github.io/opendatabook" # the base hostname & protocol for your site
 github_username:  okfn
 github_repo:  opendatahandbook
-paypal: admin@okfn.org
-contact: https://discuss.okfn.org/c/open-data-handbook
+paypal: ""
+contact: ""
 
 gems:
   - jekyll-redirect-from
